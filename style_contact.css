@@ -1,0 +1,138 @@
+body
+{
+	background-color: brown;
+	color: honeydew;
+	font: status-bar;
+}
+p{
+	color: black;
+}
+img
+	{
+		background-image: linear-gradient(217dg, rgb(255,0,0,8)70.71%),
+		linear-gradient(127dg,black,black 70.71%),
+		linear-gradient(336dg, rgb(0,0,255,8), rgb(0,0,255,0)70.71%);
+		inset-block: initial;
+		
+
+
+	}
+	#image1
+	{
+		background-image: linear-gradient(217dg, rgb(255,0,0,8)70.71%),
+		linear-gradient(127dg,black,black 70.71%),
+		linear-gradient(336dg, rgb(0,0,255,8), rgb(0,0,255,0)70.71%);
+		
+	}
+	div
+	{
+		display: inline-block;
+	}
+
+	
+	.header{
+		overflow:hidden;
+		background-color:darkred
+		padding: 20px 10px;}
+
+		.header a{
+		float: left;
+		color: rgb(255, 255, 255);
+		text-align: right;
+		padding: 20px;
+		text-decoration:none;
+		font-size: 30px;
+		line-height: 50px;
+		border-radius: 50px;
+	
+		
+	}
+
+
+
+
+	.header a:hover{
+		background-color: rgb(104, 2, 87);
+		color: rgb(17, 231, 221);
+	}
+
+
+.header a:active{
+	background-color: mediumspringgreen;
+} .header-right{
+	float: right;
+}
+
+.header a{
+	float: none;
+	display: inline;
+	text-align: center;
+}
+
+#bby1{
+	background-image: url("../res/a.png");
+	width: 250px;
+	height:250px;
+	margin:1%;
+	
+}
+#bby1 #btn1{
+
+	
+	
+	
+}
+#bby2{
+	background-image: url("../res/analytics_data_integration.png");
+	width: 250px;
+	height:250px;
+	margin:1%;
+
+}
+#bby3{
+	background-image: url("../res/istockphoto-872555106-1024x1024.jpg");
+	width: 250px;
+	height:250px;
+	margin:1%;
+	
+}
+#bby4{
+	background-image: url("../res/logo-fb-en.png");
+	width: 250px;
+	height:250px;
+	margin: 1%;
+	
+}
+button{
+	position:absolute;
+}
+
+#bby5{
+	background-image: url("../res/jeunes-utilisent-technologie_23-2147505507.jpg");
+	width: 250px;
+	height:250px;
+	margin:1%;
+	
+}
+#bby6{
+	background-image: url("../res/c5cc0395a2f1cc7b965c847a76632812.jpg");
+	width: 250px;
+	height:250px;
+	margin:1%;
+
+
+	
+}
+button{
+	display:none;
+}
+#bby
+{
+display: inline-block;
+margin-inline-start: 29%;
+margin-inline-end: 9%;
+margin-right: 4%;
+margin-block-start: 5%;
+padding-bottom: 0.7%;
+
+}
